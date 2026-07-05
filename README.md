@@ -24,7 +24,7 @@
 ## Opis posta (skopiuj)
 
 ```text
-W środku roboty wyskoczyło mi „limit reached". Claude zdechł, a ja sprawdziłem, na co realnie poszły tokeny i zoptymalizowałem. Mam teraz 7 zasad: nowa sesja zamiast ciągnięcia starej, edycja pytania zamiast dopisywania, trzy sprawy w jednej wiadomości, Haiku do drobiazgów, stałe pliki w Projekcie, ciężkie zlecenia na noc i krótki styl odpowiedzi.
+W środku roboty wyskoczyło mi "limit reached". Claude zdechł, a ja sprawdziłem, na co realnie poszły tokeny i zoptymalizowałem. Mam teraz 7 zasad: nowa sesja zamiast ciągnięcia starej, edycja pytania zamiast dopisywania, trzy sprawy w jednej wiadomości, Haiku do drobiazgów, stałe pliki w Projekcie, ciężkie zlecenia na noc i krótki styl odpowiedzi.
 
 Szczegóły są na slajdach, każda zasada osobno.
 
