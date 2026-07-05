@@ -20,21 +20,21 @@
 ## Opis posta (skopiuj)
 
 ```text
-Limit w Claude AI znika Ci szybciej, niż powinien? Ta karuzela pokazuje, gdzie naprawdę uciekają tokeny — i jak je zatrzymać. 👇
+Limit w Claude znikał mi szybciej, niż powinien. Rozpracowałem, gdzie naprawdę uciekają tokeny, i tak sobie to poukładałem. 👇
 
-7 poziomów oszczędzania limitu w Claude — od świeżego czatu po tryb jaskiniowca. Te same efekty, mniejsze zużycie. Bez żargonu.
+Mój system to 7 poziomów, od świeżego czatu po tryb jaskiniowca. Te same efekty, mniejsze zużycie.
 
-1️⃣ Nowy czat — długa rozmowa czyta się od początku przy każdej odpowiedzi
-2️⃣ Edycja — poprawiaj pytanie zamiast dopisywać pod spodem
-3️⃣ Paczka — trzy pytania w jednej wiadomości zamiast trzech osobno
-4️⃣ Modele — małe zadania oddaj małemu modelowi (Haiku zamiast Opusa)
-5️⃣ Projekty — nie wgrywaj w kółko tego samego pliku
-6️⃣ Nocna zmiana — limit odnawia się co 5 godzin, ciężkie zlecenia puść na noc
-7️⃣ Tryb jaskiniowca — płacisz też za odpowiedzi, tnij lanie wody
+1️⃣ Nowy czat. Długa rozmowa czyta się od początku, więc proszę o podsumowanie i zaczynam świeży wątek.
+2️⃣ Edycja. Poprawiam swoje pytanie zamiast dopisywać pod spodem.
+3️⃣ Paczka. Trzy pytania pakuję w jedną wiadomość.
+4️⃣ Modele. Drobiazgi oddaję Haiku, Opusa trzymam do poważnej pracy.
+5️⃣ Projekty. Stałe pliki wgrywam raz, do Projektu.
+6️⃣ Nocna zmiana. Ciężkie zlecenia puszczam przed snem, rano są zrobione.
+7️⃣ Tryb jaskiniowca. Proszę o zwięzłe odpowiedzi, bez lania wody.
 
-Zapisz post 🔖 i testuj jeden poziom dziennie.
+Zapisz sobie ten post 🔖 i sprawdź u siebie.
 
-Napisz w komentarzu „TOKENY”, a prześlę Ci pełną rozpiskę z gotowymi promptami do wklejenia. Za darmo.
+Zaobserwuj mnie po więcej takich ciekawostek o Claude i AI po ludzku. 🟢
 
 #claudeai #claude #anthropic #sztucznainteligencja #aitools #narzedziaai #produktywnosc #aipoludzku
 ```
