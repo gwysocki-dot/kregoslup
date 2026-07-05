@@ -20,21 +20,13 @@
 ## Opis posta (skopiuj)
 
 ```text
-Limit w Claude znikał mi szybciej, niż powinien. Rozpracowałem, gdzie naprawdę uciekają tokeny, i tak sobie to poukładałem. 👇
+W środku roboty wyskoczyło mi „limit reached". Wkurzyłem się i sprawdziłem, na co realnie schodzą tokeny w Claude.
 
-Wyszło z tego 7 poziomów, od świeżego czatu po tryb jaskiniowca. Te same efekty, mniejsze zużycie.
+Wyszło z tego 7 nawyków, które od tamtej pory stosuję codziennie: nowy czat zamiast ciągnięcia starego wątku, edycja pytania zamiast dopisywania, trzy sprawy w jednej wiadomości, Haiku do drobiazgów, stałe pliki w Projekcie, ciężkie zlecenia na noc i krótki styl odpowiedzi.
 
-1️⃣ Nowy czat. Długa rozmowa czyta się od początku, więc proszę o podsumowanie i zaczynam świeży wątek.
-2️⃣ Edycja. Poprawiam swoje pytanie zamiast dopisywać pod spodem.
-3️⃣ Paczka. Trzy pytania pakuję w jedną wiadomość.
-4️⃣ Modele. Drobiazgi oddaję Haiku, Opusa trzymam do poważnej pracy.
-5️⃣ Projekty. Stałe pliki wgrywam raz, do Projektu.
-6️⃣ Nocna zmiana. Ciężkie zlecenia puszczam przed snem, rano są zrobione.
-7️⃣ Tryb jaskiniowca. Proszę o zwięzłe odpowiedzi, bez lania wody.
+Szczegóły są na slajdach, każdy nawyk osobno.
 
-Zapisz sobie ten post 🔖 i sprawdź u siebie.
-
-Zaobserwuj mnie po więcej takich ciekawostek o Claude i AI po ludzku. 🟢
+Testuję Claude po polsku, na własnych projektach, i wrzucam takie rzeczy regularnie. Zaobserwuj mnie, jak chcesz być na bieżąco.
 
 #claudeai #claude #anthropic #sztucznainteligencja #aitools #narzedziaai #produktywnosc #aipoludzku
 ```
