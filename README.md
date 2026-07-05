@@ -22,7 +22,7 @@
 ```text
 Limit w Claude znikał mi szybciej, niż powinien. Rozpracowałem, gdzie naprawdę uciekają tokeny, i tak sobie to poukładałem. 👇
 
-Mój system to 7 poziomów, od świeżego czatu po tryb jaskiniowca. Te same efekty, mniejsze zużycie.
+Wyszło z tego 7 poziomów, od świeżego czatu po tryb jaskiniowca. Te same efekty, mniejsze zużycie.
 
 1️⃣ Nowy czat. Długa rozmowa czyta się od początku, więc proszę o podsumowanie i zaczynam świeży wątek.
 2️⃣ Edycja. Poprawiam swoje pytanie zamiast dopisywać pod spodem.
