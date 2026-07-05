@@ -7,15 +7,15 @@
 | | |
 |---|---|
 | **1 · Okładka** | **2 · Poziom 1 — nowy czat** |
-| [![Slajd 1](out-tok/slajd-tok-s1.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s1.png) | [![Slajd 2](out-tok/slajd-tok-s2.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s2.png) |
+| [![Slajd 1](out-tk/slajd-tk-s1.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s1.png) | [![Slajd 2](out-tk/slajd-tk-s2.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s2.png) |
 | **3 · Poziom 2 — edycja** | **4 · Poziom 3 — paczka** |
-| [![Slajd 3](out-tok/slajd-tok-s3.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s3.png) | [![Slajd 4](out-tok/slajd-tok-s4.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s4.png) |
+| [![Slajd 3](out-tk/slajd-tk-s3.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s3.png) | [![Slajd 4](out-tk/slajd-tk-s4.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s4.png) |
 | **5 · Poziom 4 — modele** | **6 · Poziom 5 — projekty** |
-| [![Slajd 5](out-tok/slajd-tok-s5.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s5.png) | [![Slajd 6](out-tok/slajd-tok-s6.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s6.png) |
+| [![Slajd 5](out-tk/slajd-tk-s5.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s5.png) | [![Slajd 6](out-tk/slajd-tk-s6.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s6.png) |
 | **7 · Poziom 6 — nocna zmiana** | **8 · Poziom 7 — tryb jaskiniowca** |
-| [![Slajd 7](out-tok/slajd-tok-s7.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s7.png) | [![Slajd 8](out-tok/slajd-tok-s8.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s8.png) |
+| [![Slajd 7](out-tk/slajd-tk-s7.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s7.png) | [![Slajd 8](out-tk/slajd-tk-s8.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s8.png) |
 | **9 · CTA** | |
-| [![Slajd 9](out-tok/slajd-tok-s9.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tok/slajd-tok-s9.png) | |
+| [![Slajd 9](out-tk/slajd-tk-s9.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/slajd-tk-s9.png) | |
 
 ## Opis posta (skopiuj)
 
