@@ -4,6 +4,10 @@
 
 **Zapis na telefonie:** stuknij w obrazek (otworzy się pełny PNG) → przytrzymaj → „Zapisz do zdjęć". Wrzucaj w kolejności 1→9.
 
+## Slajd hero (okładka z postacią)
+
+[![Hero](out-tk/hero-tokeny.png)](https://raw.githubusercontent.com/gwysocki-dot/kregoslup/podglad-tokeny/out-tk/hero-tokeny.png)
+
 | | |
 |---|---|
 | **1 · Okładka** | **2 · Poziom 1 — nowy czat** |
